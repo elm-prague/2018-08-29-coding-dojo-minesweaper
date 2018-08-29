@@ -1,0 +1,21 @@
+# Distribution
+/build/
+
+# elm-package generated files
+/elm-stuff/
+/tests/elm-stuff/
+
+# elm-repl generated files
+/repl-temp-*
+
+# Dependency directories
+/node_modules/
+
+# JavaScript
+yarn-error.log
+
+# Desktop Services Store on macOS
+.DS_Store
+
+# Editors
+.vs
